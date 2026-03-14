@@ -1,4 +1,4 @@
-# ☕ Projetos em Java | Udemy
+# ☕ Projetos em Java 
 
 Este repositório reúne vários exercícios e pequenos projetos feitos durante meu estudo da linguagem Java.
 
